@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/home/codespace/.nuget/packages/": {}
+    "C:\\Users\\rodin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Module8Lab/Module8Lab/Module8Lab.csproj",
+      "projectUniqueName": "C:\\Users\\rodin\\Module8Lab\\Module8Lab\\Module8Lab.csproj",
       "projectName": "Module8Lab",
-      "projectPath": "/workspaces/Module8Lab/Module8Lab/Module8Lab.csproj",
-      "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/Module8Lab/Module8Lab/obj/",
+      "projectPath": "C:\\Users\\rodin\\Module8Lab\\Module8Lab\\Module8Lab.csproj",
+      "packagesPath": "C:\\Users\\rodin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rodin\\Module8Lab\\Module8Lab\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/codespace/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\rodin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.401/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
